@@ -93,8 +93,8 @@ topic	question type	reply
 "the leaf"	what	"It is a leaf, a place where one might reflect on the turning of time... but not much else to it."
 "the bottle"	about	"The bottle? Perhaps it contains something that will change your perspective... or not."
 "the bottle"	what	"A small bottle with a curious label. 'Drink me' it says. But the question is—are you ready to see the world through new eyes?"
-"the door"	about	"Ah, the door. A door that leads nowhere and everywhere at once. The choice, it seems, is yours to make."
-"the door"	what	"It's a door, yes. But not just any door. It leads beyond, somewhere uncertain. Will you go through?"
+"door"	about	"Ah, the door. A door that leads nowhere and everywhere at once. The choice, it seems, is yours to make."
+"door"	what	"It's a door, yes. But not just any door. It leads beyond, somewhere uncertain. Will you go through?"
 "giants"	what	"Giants? They are creatures of great size, but little understanding. Do you think yourself a giant now?"
 "giants"	how	"Giants view the world from a distance, with little regard for the smallness of things. Perhaps that's why they don't understand."
 "mice"	what	"Mice? Ah, yes, the tiny creatures who scurry about unnoticed. But in their smallness, they see what the giants miss."
@@ -106,6 +106,8 @@ topic	question type	reply
 "the puzzle"	what	"There is no single answer to the puzzle of life. It’s all in the questions. Have you asked the right ones?"
 "the world"	what	"The world? It's not what it seems, and perhaps never was. But who are we to judge what is real?"
 "the world"	how	"The world is vast, full of hidden truths. Perhaps you’ll find one, or maybe the world itself will change around you."
+"nowhere"	about	"The door to nowhere? Well you need to be a bit bigger to see it."
+"nowhere"	where	"The door to nowhere? Well you need to be a bit bigger to see it."
 	
 Chapter 4 - Game Rules
 
